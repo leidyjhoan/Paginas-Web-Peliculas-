@@ -1,0 +1,29 @@
+body{
+    background-color:#ffff;
+    font-family: Arial, sans-serif;
+    color: #333
+}
+.logo{
+    height: 100px;
+}
+h1,h2{
+    color: #302c7e;
+    text-align: center;
+}
+h2{
+    text-align: left;
+}
+.titulo{
+    color: #ffff;
+    text-align;
+}
+form{
+    background-color: #302c7e;
+    color: #ffff;
+    padding: 20px;
+    border-radius: 5px;
+    max-width: 400px;
+    text-align: center;
+    margin: 20px auto;
+    box-shadow: 0px 4px 8px rgba(0,0,0,1);
+}
